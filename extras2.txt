@@ -1,0 +1,3 @@
+git diff a/extras2.txt b/extras2.txt
+git diff --staged a/extras2.txt b/extras2.txt
+
